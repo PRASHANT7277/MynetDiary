@@ -1,23 +1,20 @@
 import './App.css'
 import { ChakraProvider } from '@chakra-ui/react'
 import { BrowserRouter } from 'react-router-dom';
-import Navbar from './Components/Navbar';
-import Home from './Components/Home';
 
-//import AllRoutes from './components/allroute';
+
+import AllRoutes from './Components/AllRoutes';
+import Home from './Components/Home';
 
 function App() {
   return (
     <div className="App">
-      <ChakraProvider>
-        <BrowserRouter>
-        {/* <AllRoutes/> */}
-        <Navbar/>
-        <Home/>
-        </BrowserRouter>
-      
-      </ChakraProvider>
-     
+      <BrowserRouter>
+       <ChakraProvider>
+        <AllRoutes/>
+        {/* <Home/> */}
+       </ChakraProvider>
+      </BrowserRouter>
       
     </div>
   );
