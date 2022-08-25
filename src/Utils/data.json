@@ -22,5 +22,47 @@
       "desc": "Monitor your daily progress, check your weight loss forecast, and receive ongoing advice and feedback. Learn more about nutrients in your diet and make better choices.",
       "avatar": "https://s3.amazonaws.com/img.mynetdiary.com/images/cover-insights-Illustration-4@2x.png",
       "id": "4"
+    },
+    {
+    "title": "Premium Recipes",
+    "desc": "Hundreds of easy recipes, with great variety, carefully crafted for great taste by a team of Registered Dietitians.",
+      "avatar": "https://s3.amazonaws.com/img.mynetdiary.com/keto/cover-premium-keto-recipes@2x.jpg",
+      "id": "5"
+    },
+    {
+      "title": "Easy Tracking",
+      "desc": "Massive food catalog, fastest barcode scanner, quickest food lookup making food tracking a breeze",
+      "avatar": "https://s3.amazonaws.com/img.mynetdiary.com/images/cover-easy-tracking-premium@2x.png",
+      "id": "6"
+    },
+    {
+      "title": "Insights and Guidance",
+      "desc": "Encouraging and supportive feedback, guiding you to your goal.",
+      "avatar": "https://s3.amazonaws.com/img.mynetdiary.com/images/cover-insights-and-guidance-keto@2x.png",
+      "id": "7"
+    },
+    {
+      "title": "Tried and true tips for testing your blood sugar",
+      "desc": "Testing your blood sugar is something you can do to understand the role food, exercise, medication, and stress play on your blood sugar. These tips will ensure you know why, how, and when to test to help you feel your best and prevent co...",
+      "avatar": "https://www.news-medical.net/image.axd?picture=2021%2F1%2Fshutterstock_1025567251.jpg",
+      "id": "8"
+    },
+    {
+    "title": "Add these antioxidant-packed spices & herbs for health and healing to your daily meals",
+    "desc": "Did you know there are health benefits of a diet rich in herbs and spices and low in sodium that go beyond lowering blood pressure? Learn about the herbs and spices with the highest antioxidant content and some practical tips for their u...",
+      "avatar": "https://cdn.britannica.com/86/157986-050-D84944DF/indian-spices.jpg",
+      "id": "9"
+    },
+    {
+      "title": "5 Quick & healthy dinner ideas that are really easy to make",
+      "desc": "Looking for new dinner menu ideas that are healthy, quick, and easy? Check out these 5 dinners from the MyNetDiary Premium menu collection.",
+      "avatar": "https://images.squarespace-cdn.com/content/v1/571127b455598628154efb9b/1560453251771-AJNXCWLM15SKMB3RBYPN/twocranes-6-13-2019-food-130417.jpg?format=1000w",
+      "id": "10"
+    },
+    {
+      "title": "Here's how to stay motivated with your exercise routine",
+      "desc": "Are the short-term benefits of healthy exercise more motivating than the long-term benefits? What motivates you? Is it losing weight or the fact that you are in a better mood after exercising?",
+      "avatar": "https://www.helpguide.org/wp-content/uploads/woman-exercising-on-yoga-mat.jpg",
+      "id": "11"
     }
 ]
