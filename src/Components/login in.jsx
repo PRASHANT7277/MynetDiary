@@ -22,7 +22,7 @@ export default function Login(){
       <Input mt='5' type='password' placeholder='Password' />
       </FormControl>
       <Text mt='5' textAlign='left'><a href='/'>Forgot ypur Password?</a></Text>
-      <Button mt='10'pl='70' pr='70' pt='6' pb='6'  fontSize='large' backgroundColor='#475D4B' colorScheme='white' onClick={()=>{navigate('/products')}}>Sign in</Button>
+      <Button mt='10'pl='70' pr='70' pt='6' pb='6'  fontSize='large' backgroundColor='#475D4B' colorScheme='white' onClick={()=>{navigate('/')}}>Sign in</Button>
       <Text mt='5' ><Link to='/signup'>Create account</Link></Text>
      
   </Box>

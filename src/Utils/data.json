@@ -45,24 +45,84 @@
       "title": "Tried and true tips for testing your blood sugar",
       "desc": "Testing your blood sugar is something you can do to understand the role food, exercise, medication, and stress play on your blood sugar. These tips will ensure you know why, how, and when to test to help you feel your best and prevent co...",
       "avatar": "https://www.news-medical.net/image.axd?picture=2021%2F1%2Fshutterstock_1025567251.jpg",
-      "id": "8"
+      "id": "8",
+      "date": "10 Nov 2014"
     },
     {
     "title": "Add these antioxidant-packed spices & herbs for health and healing to your daily meals",
     "desc": "Did you know there are health benefits of a diet rich in herbs and spices and low in sodium that go beyond lowering blood pressure? Learn about the herbs and spices with the highest antioxidant content and some practical tips for their u...",
       "avatar": "https://cdn.britannica.com/86/157986-050-D84944DF/indian-spices.jpg",
-      "id": "9"
+      "id": "9",
+      "date":"07 Aug 2015"   
     },
     {
       "title": "5 Quick & healthy dinner ideas that are really easy to make",
       "desc": "Looking for new dinner menu ideas that are healthy, quick, and easy? Check out these 5 dinners from the MyNetDiary Premium menu collection.",
       "avatar": "https://images.squarespace-cdn.com/content/v1/571127b455598628154efb9b/1560453251771-AJNXCWLM15SKMB3RBYPN/twocranes-6-13-2019-food-130417.jpg?format=1000w",
-      "id": "10"
+      "id": "10",
+      "date":"11 July 2020"
     },
     {
       "title": "Here's how to stay motivated with your exercise routine",
       "desc": "Are the short-term benefits of healthy exercise more motivating than the long-term benefits? What motivates you? Is it losing weight or the fact that you are in a better mood after exercising?",
       "avatar": "https://www.helpguide.org/wp-content/uploads/woman-exercising-on-yoga-mat.jpg",
-      "id": "11"
+      "id": "11",
+      "date":"24 April 2018"
+    },
+    {
+      "title": "Set a daily step goal for health and weight loss",
+      "desc": "Testing your blood sugar is something you can do to understand the role food, exercise, medication, and stress play on your blood sugar. These tips will ensure you know why, how, and when to test to help you feel your best and prevent co...",
+      "avatar": "https://www.kent.co.in/blog/wp-content/uploads/2017/06/Breakfast.jpg",
+      "id": "12",
+      "date": "10 Dec 2018"
+    },
+    {
+    "title": "Take the stress out of weeknight cooking, try this salmon sheet pan dinner",
+    "desc": "Did you know there are health benefits of a diet rich in herbs and spices and low in sodium that go beyond lowering blood pressure? Learn about the herbs and spices with the highest antioxidant content and some practical tips for their u...",
+      "avatar": "https://images.indianexpress.com/2022/01/feature-healthy-food-e1646050285767.jpg",
+      "id": "13",
+      "date":"07 Mar 2019"   
+    },
+    {
+      "title": "The physical and mental benefits of yoga and how to get started",
+      "desc": "Looking for new dinner menu ideas that are healthy, quick, and easy? Check out these 5 dinners from the MyNetDiary Premium menu collection.",
+      "avatar": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/lifestyle/2020/6/21/yoga-food.ashx?h=450&w=750&hash=812229E0708B6A5C00909358E42EAC05",
+      "id": "14",
+      "date":"11 July 2020"
+    },
+    {
+      "title": "Interested in creating make-ahead meals that are healthy and budget-conscious?",
+      "desc": "Are the short-term benefits of healthy exercise more motivating than the long-term benefits? What motivates you? Is it losing weight or the fact that you are in a better mood after exercising?",
+      "avatar": "https://img.freepik.com/free-vector/healthy-eating-pyramid-chart_1308-48193.jpg?w=2000",
+      "id": "15",
+      "date":"24 Feb 2022"
+    },
+    {
+      "title": "Add these low-calorie snacks to fill you up for hours!",
+      "desc": "Testing your blood sugar is something you can do to understand the role food, exercise, medication, and stress play on your blood sugar. These tips will ensure you know why, how, and when to test to help you feel your best and prevent co...",
+      "avatar": "https://www.news-medical.net/image.axd?picture=2021%2F1%2Fshutterstock_1025567251.jpg",
+      "id": "16",
+      "date": "10 Oct 2018"
+    },
+    {
+    "title": "Healthy dairy-free zucchini brownies",
+    "desc": "Did you know there are health benefits of a diet rich in herbs and spices and low in sodium that go beyond lowering blood pressure? Learn about the herbs and spices with the highest antioxidant content and some practical tips for their u...",
+      "avatar": "https://www.expatica.com/app/uploads/sites/5/2014/05/french-food.jpg",
+      "id": "17",
+      "date":"07 Aug 2017"   
+    },
+    {
+      "title": "How to make healthy food at home easier with these 6 techniques",
+      "desc": "Looking for new dinner menu ideas that are healthy, quick, and easy? Check out these 5 dinners from the MyNetDiary Premium menu collection.",
+      "avatar": "https://img.etimg.com/thumb/msid-75176755,width-640,height-480,imgsize-612672,resizemode-4/effect-of-coronavirus-on-food.jpg",
+      "id": "18",
+      "date":"11 Sept 2021"
+    },
+    {
+      "title": "Enjoy endless lunch options when you pack a mix-and-match healthy lunch",
+      "desc": "Are the short-term benefits of healthy exercise more motivating than the long-term benefits? What motivates you? Is it losing weight or the fact that you are in a better mood after exercising?",
+      "avatar": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGVhbHRoeSUyMGZvb2R8ZW58MHx8MHx8&w=1000&q=80",
+      "id": "19",
+      "date":"24 May 2019"
     }
 ]
