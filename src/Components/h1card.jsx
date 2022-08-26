@@ -1,4 +1,4 @@
-import { Box, Image,Text} from "@chakra-ui/react";
+import { Box, Image} from "@chakra-ui/react";
  import data from '../Utils/data.json'
 export default function Card2(){
     return(

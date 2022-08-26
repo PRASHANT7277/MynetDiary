@@ -17,10 +17,10 @@ export default function Navbar(){
             <div class="dropdown">
                <button class="dropbtn">▪ Features</button>
                <div class="dropdown-content">
-                    <a href="#">• iPhone & iPad app</a>
-                    <a href="#">• Android app</a>
-                    <a href="#">• User Reviews</a>
-                    <a href="#">• MyNetDiary vs MyFitnessPal</a>
+                    <a href="https://www.mynetdiary.com/iPhone.html">• iPhone & iPad app</a>
+                    <a href="https://play.google.com/store/apps/details?id=com.fourtechnologies.mynetdiary.ad&referrer=utm_source%3Dwebsite%26utm_campaign%3Dsticky_header">• Android app</a>
+                    <a href="https://www.mynetdiary.com/user-reviews.html">• User Reviews</a>
+                    <a href="https://www.mynetdiary.com/mynetdiary-vs-myfitnesspal.html">• MyNetDiary vs MyFitnessPal</a>
                </div>
             </div>
             <div class="dropdown">
@@ -38,27 +38,27 @@ export default function Navbar(){
             <div class="dropdown">
                <button class="dropbtn">▪ Library</button>
                <div class="dropdown-content">
-                    <a href="#">• Weight Loss Blog</a>
-                    <a href="#">• Diet Library</a>
-                    <a href="#">• Dietitian team</a>
+                    <Link to='/wblog' >• Weight Loss Blog</Link>
+                    <a href="https://www.mynetdiary.com/library.html">• Diet Library</a>
+                    <a href="https://www.mynetdiary.com/authors.html">• Dietitian team</a>
                </div>
             </div>
             <div class="dropdown">
                <button class="dropbtn">▪ Food</button>
                <div class="dropdown-content">
-                    <a href="#">• Food Search</a>
-                    <a href="#">• Database Licensing & API</a>
+                    <a href="https://www.mynetdiary.com/foodSearch.do">• Food Search</a>
+                    <a href="https://www.mynetdiary.com/food-database.html">• Database Licensing & API</a>
                  
                </div>
             </div>
             <div class="dropdown">
                <button class="dropbtn">▪ Business</button>
                <div class="dropdown-content">
-                    <a href="#">• Find Healthcare Professional</a>
-                    <a href="#">• For Healthcare Professionals</a>
-                    <a href="#">• For Trainers and Clubs</a>
-                    <a href="#">• MyNetDiary vs MyFitnessPal</a>
-                    <a href="#">• Food Database Licensing</a>
+                    <a href="https://www.mynetdiary.com/find-a-health-professional.html">• Find Healthcare Professional</a>
+                    <a href="https://www.mynetdiary.com/food-diary-and-calorie-counter-for-nutritionists.html">• For Healthcare Professionals</a>
+                    <a href="https://www.mynetdiary.com/food-diary-and-calorie-counter-for-trainers.html">• For Trainers and Clubs</a>
+                    <a href="https://www.mynetdiary.com/mynetdiary_vs_myfitnesspal_professionals.html">• MyNetDiary vs MyFitnessPal</a>
+                    <a href="https://www.mynetdiary.com/food-database.html">• Food Database Licensing</a>
                </div>
             </div>
             
