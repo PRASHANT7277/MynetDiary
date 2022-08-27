@@ -2,13 +2,30 @@ import { Box,Button,FormControl,Input,Text
 } from "@chakra-ui/react";
 import Footer from "./footer";
 import Navbar from "./Navbar";
+import React, { useContext } from 'react'
+import { useState } from 'react'
+import { Link, useNavigate } from 'react-router-dom'
+import { Context } from "../context/context";
 
-function signup() {
-alert("your account is created successfully");
-}
+
+const Signup = () => {
+  const navigate=useNavigate()
+  const {handleSignUp}=useContext(Context)
+  const [form,setForm]=useState({email:"",password:""})
+  const handleChange=(e)=>{
+    const {name,value}=e.target
+    setForm({...form,[name]:value})
+  }
+  function onSubmit(){
+    
+    handleSignUp(form)
+    console.log(form)
+    navigate('/login')
+
+  }
 
 
-export default function Signup(){
+
 return(
 <>
 <Navbar/>
@@ -21,12 +38,12 @@ return(
   <Input mt='5' placeholder='Last name' />
   </FormControl>
   <FormControl>
-  <Input mt='5' type='email' placeholder='Email address' />
+  <Input mt='5' type='email' placeholder='Email Address' name="email" autoComplete='on' value={form.email} onChange={handleChange} />
   </FormControl>
   <FormControl>
-  <Input mt='5' type='password' placeholder='Password' />
+  <Input mt='5' type='password' placeholder='Password' name="password" value={form.password} onChange={handleChange} />
   </FormControl>
-  <Button mt='10'pl='70' pr='70' pt='6' pb='6'  fontSize='large' backgroundColor='#475D4B' colorScheme='white' onClick={signup}>Create</Button>
+  <Button mt='10'pl='70' pr='70' pt='6' pb='6'  fontSize='large' backgroundColor='#475D4B' colorScheme='white' onClick={onSubmit}>Create</Button>
  
 </Box>
 
@@ -38,3 +55,4 @@ return(
 </>
 )
 }
+export default  Signup
