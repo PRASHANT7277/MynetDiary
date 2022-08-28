@@ -1,9 +1,12 @@
 import { Flex, Spacer,Box, Image } from '@chakra-ui/react'
+import { useContext } from 'react'
 import { Link } from 'react-router-dom'
+import { Context } from '../context/context'
 
 import b from  '../Images/b.png'
 
 export default function Navbar(){
+   const {flag,handleLogout}=useContext(Context)
     return(
         <>
        <Box bgColor='#099E44'>
@@ -65,8 +68,8 @@ export default function Navbar(){
         </Box>
           <Spacer />
          <Box display='flex' p='4' bg='#099E44'>
-            <Link to='/signup'><Box mt='5' border='1px solid lightgreen' pt='3' pb='3' pl='9' pr='9' fontSize='20' color='white' bgColor='orange' fontWeight='semibold' borderRadius='30'>SIGN UP</Box></Link>
-           <Link to='/login'><Box  mt='5' ml='4' border='1px solid lightgreen' pb='3' pt='3' pl='9' pr='9' fontSize='20' color='white' fontWeight='semibold' borderRadius='30'>SIGN IN</Box></Link> 
+            <Link to='/signup'><Box mt='5' border='1px solid lightgreen' pt='3' pb='3' pl='9' pr='9' fontSize='20' color='white' bgColor='orange' fontWeight='semibold' borderRadius='30' onClick={handleLogout}>{flag?'SIGN UP':'LOG OUT'}</Box></Link>
+           <Link to='/login'><Box  mt='5' ml='4' border='1px solid lightgreen' pb='3' pt='3' pl='9' pr='9' fontSize='20' color='white' fontWeight='semibold' borderRadius='30'>{flag?'SIGN IN':'HI,USER'}</Box></Link> 
           </Box>
          </Flex>
          </Box>
